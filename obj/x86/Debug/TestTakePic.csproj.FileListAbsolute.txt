@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2010\Projects\TestTakePic\TestTakePic\bin\Debug\TestTakePic.exe
+c:\users\asus\documents\visual studio 2010\Projects\TestTakePic\TestTakePic\bin\Debug\TestTakePic.pdb
+c:\users\asus\documents\visual studio 2010\Projects\TestTakePic\TestTakePic\obj\x86\Debug\TestTakePic.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\TestTakePic\TestTakePic\obj\x86\Debug\TestTakePic.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\TestTakePic\TestTakePic\obj\x86\Debug\TestTakePic.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\TestTakePic\TestTakePic\obj\x86\Debug\TestTakePic.exe
+c:\users\asus\documents\visual studio 2010\Projects\TestTakePic\TestTakePic\obj\x86\Debug\TestTakePic.pdb
+C:\Users\Asus\documents\visual studio 2010\Projects\TestTakePic\TestTakePic\obj\x86\Debug\TestTakePic.csprojResolveAssemblyReference.cache
